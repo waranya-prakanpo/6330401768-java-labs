@@ -25,8 +25,6 @@ public class CircleCalculator {
             }
         } else {
                 System.err.println("CircleCalculator <radius of a circle>");
-
         }
-
     }
 }
