@@ -29,6 +29,5 @@ public class PrimitiveDataType {
         System.out.println(type6);
         System.out.println(type7);
         System.out.println(type8);
-
     }
 }
