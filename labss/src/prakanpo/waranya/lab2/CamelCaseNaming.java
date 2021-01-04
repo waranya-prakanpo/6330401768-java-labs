@@ -20,7 +20,7 @@ public class CamelCaseNaming {
             String secondEdit = second.substring(0,1).toUpperCase() + second.substring(1).toLowerCase();
             System.out.println("The first word is " + args[0]);
             System.out.println("The Second word is " + args[1]);
-            System.out.println("The concatenate with cemal case is " + firstEdit+secondEdit);
+            System.out.println("The concatenate with cemal case is " + firstEdit + secondEdit);
         } else {
             System.err.println("CamelCaseNaming : <First word> <Second word>");
         }
