@@ -34,9 +34,6 @@ public class ChangeMachine {
             System.out.println("100-bath bill : " + hundred);
             System.out.println("20-bath bill : " + twenty);
             System.out.println("Money remain : " + remain);
-
-
-
         } else {
             System.err.println("ChangeMachine <1-baht coins> <2-baht coins> <5-baht coins> <10-baht coins>");
         }
