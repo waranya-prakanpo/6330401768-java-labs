@@ -1,0 +1,19 @@
+CamelCaseNaming
+    - use more meaningful variable names. First should be firstWord
+    - comment in the code
+    - use variable for args. do not use args for printout at the end
+
+ChangeMachine
+    - comment in the code
+    - use variables to print out instead  of using args. For example use bath1.
+    - use more meaningfule variable names. Forexample oneBahtCoin, fiveBahtCoin...
+    - Try to separate variable declaration part, processing part, output part
+
+CircleCalculator
+    - area - circleArea
+
+Patient
+    - use variables for args
+
+PrimitiveDataType
+    - more meaningful variable names for example instead of using type 1, use booleanType
